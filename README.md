@@ -17,7 +17,9 @@ The files are organized in the day-wise manner as uploaded in the YouTube channe
 1. **Day 1: Financial Agent**  
    - Overview of agent-based AI concepts.  
    - Integrating yfinance tools using phidata to fetch finance data.  
-
+2. **Day 2: Agentic AI based RAG application**
+    - Integration and setup of PostgreSQL with agentic AI
+    - creating RAG based assistant
 
 
 ## Getting Started
@@ -37,14 +39,17 @@ Before running the tutorials, ensure you have the following installed:
     ```
     conda create -p venv python==3.12
     ```
-
-3. Install the dependencies:
+3. Activate virtual env
+    ```
+    conda activate venv/
+    ```
+4. Install the dependencies:
     ```
     pip install -r requirements.txt
     ```
-4. Follow the specific tutorial's instructions in its corresponding directory.
+5. Follow the specific tutorial's instructions in its corresponding directory.
 
-### Acknowledgments
+## Acknowledgments
 Special Thanks to Krish Naik for creating these useful videos. 
 
 Please check out YouTube playlist: https://www.youtube.com/watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl

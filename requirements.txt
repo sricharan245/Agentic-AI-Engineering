@@ -1,3 +1,4 @@
+# day 1
 phidata
 python-dotenv
 yfinance
@@ -10,3 +11,9 @@ newspaper4k
 lxml_html_clean
 arxiv
 pypdf
+
+# day 2
+sqlalchemy
+pgvector
+psycopg[binary]
+openai
