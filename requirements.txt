@@ -1,0 +1,12 @@
+phidata
+python-dotenv
+yfinance
+duckduckgo-search
+fastapi
+uvicorn
+groq
+python-dotenv
+newspaper4k
+lxml_html_clean
+arxiv
+pypdf
