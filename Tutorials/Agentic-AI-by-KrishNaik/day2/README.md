@@ -71,9 +71,9 @@ For this example, we are using documentation (https://docs.phidata.com/vectordb/
 ### Screenshot 1
 Prompt: what are the dishes available
 
-![alt text](image.png)
+![alt text](images/result1.png)
 
 ### Screenshot 2
 Prompt: what are the ingredients of Gluai Buat Chi
 
-![alt text](image.png)
+![alt text](images/result2.png)
